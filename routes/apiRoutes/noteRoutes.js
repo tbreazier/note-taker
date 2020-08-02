@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
 
 router.post('/', (req, res) => {
     req.body.id = shortid.generate()
-    const createNote = createNote(req.body)
+    const note = createNote(req.body)
     res.json(note)
 });
 
