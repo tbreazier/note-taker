@@ -11,7 +11,7 @@
 
   ### Usage
   See Demo Below
-  ![demo of site]()
+  ![demo of site](https://github.com/tbreazier/note-taker/blob/master/assets/Note%20Taker.gif)
 
   ### Credits
   Technologies Used - Express.js, Heroku, Node.js, Javascript, HTML, CSS, Bootstrap
