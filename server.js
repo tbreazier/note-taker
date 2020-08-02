@@ -1,7 +1,7 @@
 //Requires
 const express = require('express');
 const htmlRoutes = require('./routes/htmlRoutes');
-const noteRoutes = require('./routes/apiRoutes');
+const noteRoutes = require('./routes/apiRoutes/noteRoutes');
 
 //Assigns 3001 as port, or another or another if unavailable
 const PORT = process.env.PORT || 3001;
